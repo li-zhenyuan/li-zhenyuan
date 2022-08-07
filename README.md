@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @li-zhenyuan from Zhejiang University, China.
+- 👋 Hi, I’m @li-zhenyuan working at Huawei 2012 Lab, Hangzhou, China.
 - 👀 I’m interested in Cyber Security, Intrusion Detection, etc.
 - 🌱 I’m currently working on adopting NLP and KG techniques on threat intelligence.
 - 📫 How to reach me: li_zhenyuan@qq.com
