@@ -7,4 +7,4 @@ My research interests lie in system security, intrustion detection and cyber thr
 **"Contact [me](mailto:li_zhenyuan@qq.com) for intrusion detection systems research that are in line with the industry!!!"**
 
 # 🔥 News
-- *2023.06*: &nbsp;🎉🎉 I join [Zhejiang University, Schoolof Software Technology](http://www.cst.zju.edu.cn/) <img src='https://li-zhenyuan.github.io/images/ZJU-Logo.png' style='width: 6em;'> as Researcher. 
+- *2023.06*: &nbsp;🎉🎉 I join [Zhejiang University, Schoolof Software Technology](http://www.cst.zju.edu.cn/) <img src='https://li-zhenyuan.github.io/images/ZJU-Logo.png' style='width: 6em;'> as a Researcher. 
